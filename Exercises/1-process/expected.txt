@@ -1,0 +1,3 @@
+Działa proces macierzysty o PID: 24304, utworzony proces: 19036
+Działa proces potomny o PID: 19036
+Proces potomny zakończony

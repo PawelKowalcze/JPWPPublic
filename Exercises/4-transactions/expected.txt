@@ -1,0 +1,4 @@
+Depozyt: 50
+Nowy balans: 150
+Wypłata: 30
+Nowy balans: 120

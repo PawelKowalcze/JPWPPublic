@@ -1,0 +1,6 @@
+Wątek 14348 próbuje zablokować lock
+Wątek 14348 zablokował lock
+Wątek 14348 zwolnił lock
+Wątek 21620 próbuje zablokować lock
+Wątek 21620 zablokował lock
+Wątek 21620 zwolnił lock

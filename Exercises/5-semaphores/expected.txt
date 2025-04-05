@@ -1,0 +1,6 @@
+Wątek 22016 próbuje uzyskać semafor
+Wątek 22016 uzyskał semafor
+Wątek 22016 zwolnił semafor
+Wątek 19496 próbuje uzyskać semafor
+Wątek 19496 uzyskał semafor
+Wątek 19496 zwolnił semafor
