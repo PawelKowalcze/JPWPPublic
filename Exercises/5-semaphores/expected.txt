@@ -1,6 +1,20 @@
-Wątek 22016 próbuje uzyskać semafor
-Wątek 22016 uzyskał semafor
-Wątek 22016 zwolnił semafor
-Wątek 19496 próbuje uzyskać semafor
-Wątek 19496 uzyskał semafor
-Wątek 19496 zwolnił semafor
+Wątek 11432 próbuje uzyskać semafor
+Wątek 11432 uzyskał semaforWątek 35152 próbuje uzyskać semafor
+
+Wątek 35152 uzyskał semafor
+Wątek 80688 próbuje uzyskać semafor
+Wątek 72244 próbuje uzyskać semafor
+Wątek 77624 próbuje uzyskać semafor
+Wątek 35152 wykonuje zadanie w sekcji krytycznej
+Wątek 11432 wykonuje zadanie w sekcji krytycznejWątek 35152 zwolnił semafor
+Wątek 11432 zwolnił semafor
+Wątek 80688 uzyskał semaforWątek 72244 uzyskał semafor
+
+
+Wątek 80688 wykonuje zadanie w sekcji krytycznej
+Wątek 80688 zwolnił semaforWątek 77624 uzyskał semafor
+
+Wątek 72244 wykonuje zadanie w sekcji krytycznej
+Wątek 72244 zwolnił semafor
+Wątek 77624 wykonuje zadanie w sekcji krytycznej
+Wątek 77624 zwolnił semafor
