@@ -1,20 +1,15 @@
-Wątek 11432 próbuje uzyskać semafor
-Wątek 11432 uzyskał semaforWątek 35152 próbuje uzyskać semafor
-
-Wątek 35152 uzyskał semafor
-Wątek 80688 próbuje uzyskać semafor
-Wątek 72244 próbuje uzyskać semafor
-Wątek 77624 próbuje uzyskać semafor
-Wątek 35152 wykonuje zadanie w sekcji krytycznej
-Wątek 11432 wykonuje zadanie w sekcji krytycznejWątek 35152 zwolnił semafor
-Wątek 11432 zwolnił semafor
-Wątek 80688 uzyskał semaforWątek 72244 uzyskał semafor
-
-
-Wątek 80688 wykonuje zadanie w sekcji krytycznej
-Wątek 80688 zwolnił semaforWątek 77624 uzyskał semafor
-
-Wątek 72244 wykonuje zadanie w sekcji krytycznej
-Wątek 72244 zwolnił semafor
-Wątek 77624 wykonuje zadanie w sekcji krytycznej
-Wątek 77624 zwolnił semafor
+Wątek 10264 próbuje uzyskać semafor
+Wątek 10264 uzyskał semafor
+Wątek 11552 próbuje uzyskać semafor
+Wątek 11552 uzyskał semafor
+Wątek 22164 próbuje uzyskać semafor
+Wątek 14888 próbuje uzyskać semafor
+Wątek 17868 próbuje uzyskać semafor
+Wątek 11552 zwalnia semafor
+Wątek 10264 zwalnia semafor
+Wątek 14888 uzyskał semafor
+Wątek 22164 uzyskał semafor
+Wątek 14888 zwalnia semafor
+Wątek 22164 zwalnia semafor
+Wątek 17868 uzyskał semafor
+Wątek 17868 zwalnia semafor

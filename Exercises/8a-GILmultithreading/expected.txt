@@ -1,6 +1,6 @@
-Wątek 15544 rozpoczął działanie
-Wątek 7796 rozpoczął działanie
-Wątek 7796 zakończył działanie
-Wątek 15544 zakończył działanie
-Czas wykonania: 7.29 sekund
+Wątek 5152 rozpoczął działanie
+Wątek 21748 rozpoczął działanie
+Wątek 5152 zakończył działanie
+Wątek 21748 zakończył działanie
+Czas wykonania: 6.97 sekund
 Zakończono

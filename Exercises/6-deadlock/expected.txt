@@ -1,6 +1,8 @@
-Wątek 1: zablokował lock1
-Wątek 1: zablokował lock2
-Wątek 1: zwolnił lock1 i lock2
-Wątek 2: zablokował lock2
-Wątek 2: zablokował lock1
-Wątek 2: zwolnił lock2 i lock1
+Wątek 1 uzyskał lock1
+Wątek 1 uzyskał lock2
+Wątek 1 zwolnił lock2
+Wątek 1 zwolnił lock1
+Wątek 2 uzyskał lock1
+Wątek 2 uzyskał lock2
+Wątek 2 zwolnił lock2
+Wątek 2 zwolnił lock1

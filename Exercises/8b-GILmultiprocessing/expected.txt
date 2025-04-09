@@ -1,6 +1,6 @@
-Proces o PID: 24368 rozpoczął działanie
-Proces o PID: 21540 rozpoczął działanie
-Proces o PID: 24368 zakończył działanie
-Proces o PID: 21540 zakończył działanie
-Czas wykonania: 4.02 sekund
+Proces 9008 rozpoczął działanie
+Proces 22332 rozpoczął działanie
+Proces 9008 zakończył działanie
+Proces 22332 zakończył działanie
+Czas wykonania: 3.72 sekund
 Zakończono
